@@ -1,0 +1,21 @@
+[
+    {
+        "slug":"MAR",
+        "tit": "ENERGIA MAREMOTRIZ",
+        "img": "/maremotriz.jpg",
+        "texto1": "A energia maremotriz é uma forma de energia renovável que aproveita o movimento das marés, ou seja, o deslocamento da água do mar, para gerar eletricidade. Esse movimento das marés é causado principalmente pela atração gravitacional da Lua e do Sol sobre os oceanos, resultando em variações regulares do nível da água em determinadas regiões costeiras."
+    },
+    {
+        "slug":"BIOMASSA",
+        "tit": "ENERGIA BIOMASSA",
+        "img": "/biomassa.jpg",
+        "texto1": "A energia de biomassa é uma forma de energia renovável que é produzida a partir de materiais orgânicos, como resíduos agrícolas, florestais, resíduos urbanos, algas, entre outros. Esses materiais podem ser queimados diretamente ou convertidos em outros combustíveis, como biocombustíveis líquidos (etanol, biodiesel) ou biogás, para gerar calor, eletricidade ou até mesmo combustível para veículos.A biomassa é uma das fontes mais antigas de energia usada pelo ser humano e pode ser considerada NEUTRA CARBONO porque o dióxido de carbono liberado durante sua queima é, em teoria, compensado pela quantidade de CO2 absorvida pelas plantas enquanto cresciam."
+
+    },
+    {
+        "slug":"GEOTÉRMICA",
+        "tit": "ENERGIA GEOTÉRMICA",
+        "img": "/geotermica.jpg",
+        "texto1": "A energia geotérmica é uma forma de energia renovável que é gerada a partir do calor armazenado no interior da Terra. Esse calor é proveniente de processos naturais, como a decomposição de elementos radioativos no núcleo da Terra e o calor remanescente da formação do planeta. A energia geotérmica pode ser aproveitada para gerar eletricidade ou para aquecimento direto."
+    }
+]
